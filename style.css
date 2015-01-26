@@ -1,0 +1,22 @@
+nav{
+    background-color: #464547;
+    color: white;
+    padding: 0 5px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+nav ul{
+    list-style: none;
+    display: inline-block;
+    height: 100%;
+    padding: 0;
+
+}
+nav ul li, div.logo{
+    display: inline-block;
+    border-right: 1px #525153 solid;
+    padding: 25px 0;
+    height: 100%;
+}
